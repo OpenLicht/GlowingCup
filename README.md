@@ -8,7 +8,7 @@ to the microcontroller. It processes and visualizes the data as a color via the 
 ## Pictures
 |                                    |                                |
 | ---------------------              | ---------------------          |
-| ![Bild1](Magenta_SLA.jpg =x300)    | ![Bild2](WaterinCup.jpg =x300) |
-| ![Bild3](Yellow_HDGlass.jpg =x300) | ![Bild4](Yellow_SLA.jpg =x300) |
+| ![Bild1](Magenta_SLA.jpg)    | ![Bild2](WaterinCup.jpg) |
+| ![Bild3](Yellow_HDGlass.jpg) | ![Bild4](Yellow_SLA.jpg) |
 
 
